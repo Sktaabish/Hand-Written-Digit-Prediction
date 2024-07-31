@@ -7,9 +7,9 @@
 
   **The necessary libraries for this analysis are imported:**
 
-  pandas and numpy for data manipulation and numerical operations.
-  matplotlib.pyplot for plotting and visualizing the data.
-  sklearn.datasets for loading the digit dataset.
+    pandas and numpy for data manipulation and numerical operations.
+    matplotlib.pyplot for plotting and visualizing the data.
+    sklearn.datasets for loading the digit dataset.
 
 3. **Import Data**
 
